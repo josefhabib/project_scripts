@@ -1,0 +1,15 @@
+# Mac OS X
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# JavaScript
+node_modules/
+npm-debug.log
+
+# Custom
+tmp.txt
